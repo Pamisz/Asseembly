@@ -1,0 +1,20 @@
+﻿  Assembling main.asm...
+main.asm(1): error A2008: syntax error : .
+main.asm(2): error A2008: syntax error : .
+main.asm(24): error A2070: invalid instruction operands
+main.asm(25): error A2070: invalid instruction operands
+main.asm(32): error A2070: invalid instruction operands
+main.asm(113): error A2070: invalid instruction operands
+main.asm(114): error A2070: invalid instruction operands
+main.asm(44): error A2229: cannot use labels and 32-bit addressing in the same expression
+main.asm(48): error A2229: cannot use labels and 32-bit addressing in the same expression
+main.asm(54): error A2229: cannot use labels and 32-bit addressing in the same expression
+main.asm(60): error A2229: cannot use labels and 32-bit addressing in the same expression
+main.asm(66): error A2229: cannot use labels and 32-bit addressing in the same expression
+main.asm(72): error A2229: cannot use labels and 32-bit addressing in the same expression
+main.asm(78): error A2229: cannot use labels and 32-bit addressing in the same expression
+main.asm(84): error A2229: cannot use labels and 32-bit addressing in the same expression
+main.asm(90): error A2229: cannot use labels and 32-bit addressing in the same expression
+main.asm(96): error A2229: cannot use labels and 32-bit addressing in the same expression
+main.asm(105): error A2229: cannot use labels and 32-bit addressing in the same expression
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: Polecenie ml64.exe /c /nologo /Zi /Fo"x64\Debug\main.obj" /W3 /errorReport:prompt  /Tamain.asm zostało zakończone; kod błędu: 1.
