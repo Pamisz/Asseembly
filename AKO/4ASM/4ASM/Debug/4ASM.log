@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Wazowski\OneDrive\Pulpit\Assembly\4ASM\4ASM\main.c(9,41): warning C4474: „scanf_s”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Wazowski\OneDrive\Pulpit\Assembly\4ASM\4ASM\main.c(9,41): message : symbole zastępcze i ich parametry oczekują 4 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 5
+  4ASM.vcxproj -> C:\Users\Wazowski\OneDrive\Pulpit\Assembly\4ASM\Debug\4ASM.exe
